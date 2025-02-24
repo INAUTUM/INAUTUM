@@ -64,9 +64,9 @@
   <br>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=INAUTUM&theme=github_dark_dimmed&hide_border=false" alt = "GitHub Streak" />
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=INAUTUM&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt = "GitHub Languages" />
-  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=INAUTUM&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt = "GitHub Languages">
 </p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=INAUTUM&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
