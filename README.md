@@ -67,14 +67,16 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=INAUTUM&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt = "GitHub Languages">
 </p>
 
-## 🏆 GitHub Trophies
+###
+# 🏆 GitHub Trophies
 <p align="center">
   <img src = "https://github-profile-trophy.vercel.app/?username=INAUTUM&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt = "Trophies"/>
   <br>
 </p>
   <!-- ![](https://github-profile-trophy.vercel.app/?username=INAUTUM&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4) -->
 
-  ### ✍️ Random Dev Quote
+### 
+# ✍️ Random Dev Quote
 <p align="center">
   <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark_dimmed" alt = "Quotes"/>
   <br>
