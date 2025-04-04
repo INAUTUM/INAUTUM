@@ -68,10 +68,16 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=INAUTUM&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src = "https://github-profile-trophy.vercel.app/?username=INAUTUM&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4" />
+  <br>
+  <!-- ![](https://github-profile-trophy.vercel.app/?username=INAUTUM&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark_dimmed)
+  ### ✍️ Random Dev Quote
+  <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark_dimmed" />
+  <br>
+  <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark_dimmed) -->
+</p>
 
 <br clear="both">
 <picture>
