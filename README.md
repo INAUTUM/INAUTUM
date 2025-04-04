@@ -62,8 +62,8 @@
 
   <img src = "https://github-readme-stats.vercel.app/api?username=INAUTUM&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" alt = "GitHub Stats" />
   <br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=INAUTUM&theme=github_dark_dimmed&hide_border=false" alt = "GitHub Streak" />
-  <br>
+  <!-- <img src = "https://github-readme-streak-stats.herokuapp.com/?user=INAUTUM&theme=github_dark_dimmed&hide_border=false" alt = "GitHub Streak" />
+  <br> -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=INAUTUM&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt = "GitHub Languages">
 </p>
 
