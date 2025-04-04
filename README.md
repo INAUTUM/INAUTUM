@@ -69,12 +69,12 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=INAUTUM&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4" />
+  <img src = "https://github-profile-trophy.vercel.app/?username=INAUTUM&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt = "Trophies"/>
   <br>
   <!-- ![](https://github-profile-trophy.vercel.app/?username=INAUTUM&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4) -->
 
   ### ✍️ Random Dev Quote
-  <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark_dimmed" />
+  <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark_dimmed" alt = "Quotes"/>
   <br>
   <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark_dimmed) -->
 </p>
